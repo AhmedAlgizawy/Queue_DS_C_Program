@@ -1,0 +1,29 @@
+# depslib dependency file v1.0
+1691485494 source:e:\c program\queue_ds\queue_ds\main.c
+	<stdio.h>
+	<stdlib.h>
+	"Queue.h"
+
+1691485656 e:\c program\queue_ds\queue_ds\queue.h
+	<stdlib.h>
+	"Platform_Types.h"
+
+1691309470 e:\c program\queue_ds\queue_ds\platform_types.h
+
+1691485770 source:e:\c program\queue_ds\queue_ds\queue.c
+	"Queue.h"
+
+1691524044 source:e:\c program\queue_ds\queue_dynamic_ds\main.c
+	<stdio.h>
+	<stdlib.h>
+	"Queue.h"
+
+1691530561 e:\c program\queue_ds\queue_dynamic_ds\queue.h
+	<stdlib.h>
+	"Platform_Types.h"
+
+1691309470 e:\c program\queue_ds\queue_dynamic_ds\platform_types.h
+
+1691530561 source:e:\c program\queue_ds\queue_dynamic_ds\queue.c
+	"Queue.h"
+
